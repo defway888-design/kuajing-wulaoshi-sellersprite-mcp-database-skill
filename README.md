@@ -28,10 +28,13 @@ Skill 会加载基础数据索引；之后直接描述你的需求即可。
    ```text
    请从以下 GitHub 仓库安装跨境吴老师卖家精灵 MCP 数据库 Skill：
    https://github.com/defway888-design/kuajing-wulaoshi-sellersprite-mcp-database-skill
+
+   安装成功后，请输出：
+   跨境吴老师卖家精灵 MCP 数据库 Skill 已就绪。现在输入“运行 跨境吴老师卖家精灵 MCP 数据库”，即可开始执行基础数据的索引。
    ```
 
-3. 按 Codex 提示完成安装。
-4. 关闭并重新打开 Codex，使 Skill 生效。
+3. 按 Codex 提示完成安装；安装器完成后会按上方指令回显启动引导语。
+4. 关闭并重新打开 Codex，使 Skill 生效；随后输入引导语中的运行口令。
 
 ## 四、Skill 执行规则
 
