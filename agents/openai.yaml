@@ -1,7 +1,7 @@
 interface:
-  display_name: "跨境吴老师卖家精灵 MCP 数据库"
+  display_name: "跨境吴老师卖家精灵 MCP 数据库 Skill"
   short_description: "卖家精灵数据调用前的业务边界、工具路由与字段口径。"
-  default_prompt: "跨境吴老师卖家精灵 MCP 数据库 Skill 已就绪。现在输入“运行 跨境吴老师卖家精灵 MCP 数据库”，即可开始执行基础数据的索引。"
+  default_prompt: "使用 $kuajing-wulaoshi-sellersprite-mcp-database：运行跨境吴老师卖家精灵 MCP 数据库，加载基础数据索引。"
 
 policy:
   allow_implicit_invocation: true
